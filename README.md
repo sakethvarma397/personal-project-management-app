@@ -3,6 +3,9 @@
 This is a simple full-stack app with Next.js 13 features, with Postgres db and tailwind for stlying. 
 It touches the concepts of server vs client components, initialzing and migrating databases, JWT Authentication, middleware to protect the routes, and handling shimmers.
 
+<img width="630" alt="Screenshot 2023-06-22 at 11 58 30 AM" src="https://github.com/sakethvarma397/personal-project-management-app/assets/29940063/700b9178-730f-417a-abb7-b3ab97d8c86b">
+
+
 
 ### Env variables
 
